@@ -14,7 +14,7 @@
 ## [多序列比对结果的可视化](http://www.biotrainee.com:3838/jmzeng/msaR/)
 > 上传你的aln文件格式的多序列比对结果文件即可,[点击下载测试数据](http://www.biotrainee.com:3838/jmzeng/msaR/AHBA.aln)
 
-## [多序列比对结果的可视化](http://www.biotrainee.com:3838/jmzeng/seqlogo/)
+## [序列motif类似的logo图](http://www.biotrainee.com:3838/jmzeng/seqlogo/)
 > 在输入框粘贴多条DNA/氨基酸序列即可，一条序列一行,就可以给你创建一个motif类似的logo图，其实就是显示每个位点的碱基/氨基酸的出现频率。
 
 
