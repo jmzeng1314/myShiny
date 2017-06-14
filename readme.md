@@ -1,5 +1,7 @@
 # 欢迎试用我的shiny小工具 
 
+> 我本人非常喜欢R语言，也顺带喜欢shiny这样的展现方式，如果你想学，可以自己先看[一些例子](https://github.com/rstudio/shiny-examples)
+
 ## [基因ID转换](http://www.biotrainee.com:3838/jmzeng/gene_list_annotation )
 > 很简单，就是你复制粘贴一列基因名，就给你进行一些基因ID转换和注释，点击上面的目录就可以进入使用咯
 
